@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Meu portfólio</title>
+</head>
+
+<body>
+    <header>
+        <p>Nós somos Vinicius miranda e Vitor Hugo</p>
+        <img src="img/Ellipse 1497.png" alt="">
+        <h1>Somos estudantes</h1>
+        <p>Somos estudantes do Colégio clotário portugal</p>
+        <p>Minhas habilidades</p>
+        <div>
+            <p>Ingles</p>
+            <p>Informatica</p>
+            <p>Javascript</p>
+            <p>Scratch</p>
+        </div>
+    </header>
+</body>
+
+</html>
